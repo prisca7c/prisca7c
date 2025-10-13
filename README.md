@@ -25,12 +25,6 @@
 - 🛠️ Git, VS Code, Fusion 360, SolidWorks, OnShape, Tinkercad, KiCad  
 - 🤖 OpenCV, MediaPipe, Flask, Node.js, Next.js, UI/UX  
 
-**Fun & Visual Style:**  
-- Python → 🐍💡⚡  
-- C/C++ → 🖥️🔧  
-- Arduino → 🤖⚡  
-- CAD/3D → 🏗️🎨  Solidworks, Fusion360, OnShape, Shapr3D
-
 ---
 
 ### 🎌 Projects & Highlights
