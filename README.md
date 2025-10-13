@@ -1,43 +1,56 @@
-<h1 align="center">👋 I'm Prisca</h1>
+<!-- LinkedIn Banner at the top -->
+<p align="center">
+  <img src="https://your-linkedin-banner-link.com/banner.png" alt="LinkedIn Banner" width="100%" />
+</p>
+
+<h1 align="center">こんにちは 👋 I'm Prisca</h1>
 <p align="center">
   <em>Nanotechnology & Quantum Enthusiast | Robotics Hacker | CAD & 3D Printing Geek</em>
 </p>
 
 ---
 
-<div align="center">
-
-🌸 **About Me**  
+### 🌸 About Me
 - Studying **Nanotechnology Engineering & Nanoelectronics**  
 - Building **robots, CAD models, and hackathon projects**  
 - Passionate about **quantum computing & AI experiments**  
 - Love blending **STEM + Art**: from 3D printing to dance  
 
-🌿 **Skills**  
-- **Languages:** Python, C/C++, Arduino, Ruby, HTML/CSS, JavaScript  
-- **Tools:** Git, VS Code, Fusion 360, SolidWorks, OnShape, Tinkercad, KiCad  
-- **Other:** OpenCV, MediaPipe, Flask, Node.js, Next.js, UI/UX  
+---
 
-🎌 **Fun Facts**  
-- Danced with the **Toronto Symphony Orchestra**  
-- Conducted **research on bioassays & neuroendocrine systems**  
-- Built **life-sized interactive robots** at hackathons  
+### 🌿 Skills
+**Languages & Tools**  
+- 🐍 Python | 💻 C/C++ | ⚡ Arduino | 🌐 HTML/CSS/JS | 💎 Ruby  
+- 🛠️ Git, VS Code, Fusion 360, SolidWorks, OnShape, Tinkercad, KiCad  
+- 🤖 OpenCV, MediaPipe, Flask, Node.js, Next.js, UI/UX  
 
-</div>
+**Fun & Visual Style:**  
+- Python → 🐍💡⚡  
+- C/C++ → 🖥️🔧  
+- Arduino → 🤖⚡  
+- CAD/3D → 🏗️🎨  
 
 ---
 
-<div align="center">
-
-🛠️ **Projects & Highlights**  
+### 🎌 Projects & Highlights
 - **Interactive Robotics:** Life-sized peashooter controlled by joystick  
-- **3D & CAD Modeling:** Fusion 360 and SolidWorks designs for prototypes  
-- **Hackathons:** Lead dev & designer, building innovative tech solutions  
+- **3D & CAD Modeling:** Fusion 360 and SolidWorks prototypes  
+- **Hackathons:** Lead dev & designer, creating innovative tech solutions  
 
-📬 **Connect with Me**  
-[LinkedIn](https://www.linkedin.com/in/priscachien/) • [Twitter](https://twitter.com/prisca7c) • Email: prisca.meredith.chien@gmail.com  
+---
 
-</div>
+### 📬 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/priscachien/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prisca@example.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/prisca7c" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
