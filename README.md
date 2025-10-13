@@ -1,6 +1,6 @@
 <!-- LinkedIn Banner at the top -->
 <p align="center">
-  <a href='https://postimg.cc/bSwzPR0m' target='_blank'><img src='https://i.postimg.cc/bSwzPR0m/Screenshot-2025-08-08-at-10-01-34-PM.png' border='0' alt='Screenshot-2025-08-08-at-10-01-34-PM'/></a>
+  [![Screenshot-2025-08-08-at-10-01-34-PM.png](https://i.postimg.cc/kGxDx12P/Screenshot-2025-08-08-at-10-01-34-PM.png)](https://postimg.cc/bSwzPR0m)
 </p>
 
 <h1 align="center">こんにちは 👋 I'm Prisca</h1>
