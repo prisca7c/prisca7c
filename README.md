@@ -1,6 +1,6 @@
 <!-- LinkedIn Banner at the top -->
 <p align="center">
-  <img src="https://your-linkedin-banner-link.com/banner.png" alt="LinkedIn Banner" width="100%" />
+  <img src="https://i.postimg.cc/kGxDx12P/Screenshot-2025-08-08-at-10-01-34-PM.png" alt="LinkedIn Banner" width="100%" />
 </p>
 
 <h1 align="center">こんにちは 👋 I'm Prisca</h1>
