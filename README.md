@@ -1,50 +1,46 @@
+<h1 align="center">👋 I'm Prisca</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/26uTt19p2vJ6fJgts/giphy.gif" width="150" alt="robot gif"/>
+  <em>Nanotechnology & Quantum Enthusiast | Robotics Hacker | CAD & 3D Printing Geek</em>
 </p>
-
-<h1 align="center">👋 Hey there! I'm Prisca</h1>
-<p align="center">Nanotechnology & Quantum Enthusiast | Robotics Hacker | CAD & 3D Printing Geek</p>
 
 ---
 
-### 🔹 My World in Cards
-
 <div align="center">
 
-🧪 **Quantum & Nano**  
-> Studying nanotechnology engineering & nanoelectronics. Always exploring the quantum frontier.  
+🌸 **About Me**  
+- Studying **Nanotechnology Engineering & Nanoelectronics**  
+- Building **robots, CAD models, and hackathon projects**  
+- Passionate about **quantum computing & AI experiments**  
+- Love blending **STEM + Art**: from 3D printing to dance  
 
-🤖 **Robotics & Hackathons**  
-> Built life-sized interactive robots, led projects in VEX & DIY automation. Hackathon junkie.  
+🌿 **Skills**  
+- **Languages:** Python, C/C++, Arduino, Ruby, HTML/CSS, JavaScript  
+- **Tools:** Git, VS Code, Fusion 360, SolidWorks, OnShape, Tinkercad, KiCad  
+- **Other:** OpenCV, MediaPipe, Flask, Node.js, Next.js, UI/UX  
 
-💻 **Coding Playground**  
-> Python, C/C++, Arduino, HTML/CSS, JS, Ruby. AI + computer vision + interactive UI/UX experiments.  
-
-🎨 **3D & Design**  
-> Fusion 360, SolidWorks, Shapr3D, Tinkercad, OnShape, KiCad. From CAD to 3D print reality.  
-
-🌱 **Research & Innovation**  
-> Bioassays, neuroendocrine systems, genetic modification in fruit flies, and antimicrobial testing.  
-
-🎵 **Arts & Beyond**  
-> Danced with the Toronto Symphony Orchestra, love creative projects that mix STEM + art.  
+🎌 **Fun Facts**  
+- Danced with the **Toronto Symphony Orchestra**  
+- Conducted **research on bioassays & neuroendocrine systems**  
+- Built **life-sized interactive robots** at hackathons  
 
 </div>
 
 ---
 
-### 🌈 Fun Stats
-| 🔥 Languages | ⚡ Projects | 📈 Contributions |
-|-------------|------------|----------------|
-| Python 🐍, C/C++, Arduino, Ruby, HTML/CSS, JS | Robotics, Hackathons, AI projects | GitHub, Fusion 360 models, 3D printing |
+<div align="center">
+
+🛠️ **Projects & Highlights**  
+- **Interactive Robotics:** Life-sized peashooter controlled by joystick  
+- **3D & CAD Modeling:** Fusion 360 and SolidWorks designs for prototypes  
+- **Hackathons:** Lead dev & designer, building innovative tech solutions  
+
+📬 **Connect with Me**  
+[LinkedIn](https://www.linkedin.com/in/priscachien/) • [Twitter](https://twitter.com/prisca7c) • Email: prisca.meredith.chien@gmail.com  
+
+</div>
 
 ---
 
-### 📬 Connect
-- LinkedIn: [Prisca Chien](https://www.linkedin.com/in/priscachien/)  
-- Email: prisca@example.com  
-- Twitter: [@prisca7c](https://twitter.com/prisca7c)
-
----
-
-💡 **Motto:** “Dream big, tinker bigger, and always build something that surprises you.”
+<p align="center">
+<em>“Dream big, tinker bigger, and always build something that surprises you.” 🌸</em>
+</p>
