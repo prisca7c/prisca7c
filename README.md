@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">こんにちは 👋 I'm Prisca</h1>
+<h1 align="center">👋 I'm Prisca</h1>
 <p align="center">
   <em>Nanotechnology & Quantum Enthusiast | Robotics Hacker | CAD & 3D Printing Geek</em>
 </p>
@@ -29,7 +29,7 @@
 - Python → 🐍💡⚡  
 - C/C++ → 🖥️🔧  
 - Arduino → 🤖⚡  
-- CAD/3D → 🏗️🎨  
+- CAD/3D → 🏗️🎨  Solidworks, Fusion360, OnShape, Shapr3D
 
 ---
 
@@ -56,5 +56,6 @@
 ---
 
 <p align="center">
-<em>“Dream big, tinker bigger, and always build something that surprises you.” 🌸</em>
+<em> ˗ˏˋ ✞ ˎˊ˗ </em>
+<em>"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus." - Philippians 4:6-7 </em>
 </p>
