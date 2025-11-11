@@ -6,16 +6,15 @@
 
 <h1 align="center">👋 I'm Prisca</h1>
 <p align="center">
-  <em>Nanotechnology & Quantum Enthusiast | Robotics Hacker | CAD & 3D Printing Geek</em>
+  <em>Nanotechnology Engineering | Robotics | CAD & 3D Printing Geek</em>
 </p>
 
 ---
 
 ### 🌸 About Me
-- Studying **Nanotechnology Engineering & Nanoelectronics**  
+- Studying **Nanotechnology Engineering**  
 - Building **robots, CAD models, and hackathon projects**  
 - Passionate about **quantum computing & AI experiments**  
-- Love blending **STEM + Art**: from 3D printing to dance  
 
 ---
 
@@ -41,9 +40,6 @@
   </a>
   <a href="mailto:prisca@example.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/prisca7c" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
