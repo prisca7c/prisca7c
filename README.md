@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">👋 I'm Prisca</h1>
+<h1 align="center">I'm Prisca</h1>
 <p align="center">
   <em>Nanotechnology Engineering</em>
 </p>
