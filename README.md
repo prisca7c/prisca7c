@@ -6,30 +6,8 @@
 
 <h1 align="center">👋 I'm Prisca</h1>
 <p align="center">
-  <em>Nanotechnology Engineering | Robotics | CAD & 3D Printing Geek</em>
+  <em>Nanotechnology Engineering</em>
 </p>
-
----
-
-### 🌸 About Me
-- Studying **Nanotechnology Engineering**  
-- Building **robots, CAD models, and hackathon projects**  
-- Passionate about **quantum computing & AI experiments**  
-
----
-
-### 🌿 Skills
-**Languages & Tools**  
-- 🐍 Python | 💻 C/C++ | ⚡ Arduino | 🌐 HTML/CSS/JS | 💎 Ruby  
-- 🛠️ Git, VS Code, Fusion 360, SolidWorks, OnShape, Tinkercad, KiCad  
-- 🤖 OpenCV, MediaPipe, Flask, Node.js, Next.js, UI/UX  
-
----
-
-### 🎌 Projects & Highlights
-- **Interactive Robotics:** Life-sized peashooter controlled by joystick  
-- **3D & CAD Modeling:** Fusion 360 and SolidWorks prototypes  
-- **Hackathons:** Lead dev & designer, creating innovative tech solutions  
 
 ---
 
@@ -49,5 +27,4 @@
   <em>  ˗ˏˋ ✞ ˎˊ˗  </em>
 </p>
 <p>
-<em>"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus." - Philippians 4:6-7 </em>
 </p>
